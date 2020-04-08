@@ -5,7 +5,7 @@ This project has been used to redeem my SLO (personal skill development) credits
 
 ## Preview
 
-
+![](example.gif)
 
 ## Built With
 
