@@ -6,12 +6,14 @@ This project has been used to redeem my SLO (personal skill development) credits
 ## Preview
 
 ![](example.gif)
+Note: There is a small delay between the game footage and the camera recording the cluster.
 
 ## Built With
 
 * [Simhub](https://www.simhubdash.com/) - Used to retrieve game data (requires purchasing a license for the best result)
 * An Arduino  uno/nano/pro micro
   Note: ESP support has been mentioned, but currently is not supported.
+* External 12v power supply for the cluster (500mA was enough for me).
 * Soldering iron
 * Wires
 Note: having the original 'a' & 'b' connector will be really usefull, but if you can't/don't have them you will need 10 extra male-male or male-female wires.
